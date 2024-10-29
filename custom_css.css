@@ -1,0 +1,18 @@
+.aspl-dropbox-form-upload-section{
+    padding: 10px;
+    border: 1px dashed;
+} 
+.aspl-dropbox-form-upload-section .row{
+    text-align: center;
+}
+.aspl-dropbox-form-upload-section .aspl-file-field-outer{
+    padding: 0px 100px 10px 100px;
+}
+.aspl-dropbox-form-upload-section #file-upload{
+    padding: 10px;
+    border: 1px solid;
+    width: 100%;
+}
+.aspl-dropbox-form-upload-section label{
+    text-align: left;
+}
